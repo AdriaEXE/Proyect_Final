@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Wikia.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="css/normalize.css" rel="stylesheet" type="text/css" />
+    <link href="css/app.css" rel="stylesheet" type="text/css" />
+    <title>Wikia</title>
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   <header class="header">
+        <div class="contenedor">
+            <div class="nav-bar">
+                <div class="nav-image">
+                    <div class="logo">
+                        <img class="img-logo" src="image/manga.jpg" />                  
+                        <h1 class="contenedor">MANGA-WIKIA</h1>
+                    </div>                  
+
+                </div>
+                <p></p>
+                <nav class="navegacion">
+                    <a href="default.aspx">Inicio </a> <a href="">__</a>
+                    <a href="tipos.aspx">Tipos </a> <a href="">__</a>
+                    <a href="top.aspx">MejoresMangas </a> <a href="">__</a>
+                    <a href="paginas.aspx">Paginas</a>
+                    <a href="BackOffice.aspx">Administrador</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <main class="contenedor">
+        <form class="formulario" id="form1" runat="server">
+            <asp:ContentPlaceHolder ID="cphMain" runat="server">
+            </asp:ContentPlaceHolder>
+        </form>
+    </main>
+</body>
+</html>

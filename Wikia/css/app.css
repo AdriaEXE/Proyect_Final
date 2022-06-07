@@ -1,0 +1,136 @@
+﻿html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+.img-logo {
+    width: 202px;
+    height: 188px;
+}
+
+.logo {
+    font-size: 18px;
+}
+
+body {
+    font-size: 2rem;
+    background-image: url(../image/neon.jpg);
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contenedor {
+    width: min(90%, 120rem);
+    margin: 0 auto;
+}
+
+.header {
+    height: 22rem;
+    background-image: url(../image/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin: 0;
+}
+
+.nav-image {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    
+}
+
+.nav-image h1{
+    text-decoration-color: black;
+    text-decoration-line: overline underline;
+    -webkit-text-stroke: red 2px;
+}
+
+@media(min-width: 768px) {
+    .img-logo {
+        width: 30rem;
+    }
+}
+
+@media(min-width: 768px) {
+    .header {
+        height: 40rem;
+    }   
+}
+
+@media(max-width: 768px) {
+    .logo {
+        text-decoration-color: darkred;
+        -webkit-text-stroke: unset 1px;
+        font-size: 8px;
+    }
+
+    .img-logo {
+        width: 15rem;
+        height: 14rem;
+    }
+}
+
+
+/*Navegacion*/
+
+@media(min-width: 768px) {
+    .nav-bar {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+@media(min-width: 768px) {
+    .navegacion {
+        display: flex;
+        column-gap: 2rem;
+    }
+}
+
+.navegacion a {
+    display: block;
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+}
+
+/**********/
+@media(min-width: 768px) {
+    .textos {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+    }
+}
+
+.texto {
+    /*background-color: lightsteelblue;*/
+    background-image: url(../image/neon2.jpg);
+    padding: 2rem;
+    border-radius: 1rem;
+    color: white;
+}
+
+.texto a{
+    display: block;
+    background-color: #003d6a;
+    color: #FFF;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    font-weight: bold;
+}
+
+.contenedor h1 {
+    color: white;
+}

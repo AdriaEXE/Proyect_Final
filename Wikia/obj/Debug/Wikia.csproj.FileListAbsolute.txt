@@ -1,0 +1,168 @@
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\Wikia.dll.config
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\Wikia.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\Wikia.pdb
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\csc.exe
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\csc.exe.config
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\csc.rsp
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\csi.exe
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\csi.exe.config
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\csi.rsp
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.AppContext.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Console.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.IO.Compression.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Security.Claims.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.ValueTuple.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\vbc.exe
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\vbc.exe.config
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\vbc.rsp
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\VBCSCompiler.exe
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EARP\source\repos\P_FINAL\Wikia\obj\Debug\Wikia.csprojAssemblyReference.cache
+C:\Users\EARP\source\repos\P_FINAL\Wikia\obj\Debug\Wikia.csproj.CoreCompileInputs.cache
+C:\Users\EARP\source\repos\P_FINAL\Wikia\obj\Debug\Wikia.csproj.CopyComplete
+C:\Users\EARP\source\repos\P_FINAL\Wikia\obj\Debug\Wikia.dll
+C:\Users\EARP\source\repos\P_FINAL\Wikia\obj\Debug\Wikia.pdb
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\Wikia.dll.config
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\Wikia.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\Wikia.pdb
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\csc.exe
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\csc.exe.config
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\csc.rsp
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\csi.exe
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\csi.exe.config
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\csi.rsp
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.AppContext.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Console.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.IO.Compression.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Security.Claims.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.ValueTuple.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\vbc.exe
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\vbc.exe.config
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\vbc.rsp
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\VBCSCompiler.exe
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\alexa\Desktop\P_FINAL\Wikia\obj\Debug\Wikia.csproj.AssemblyReference.cache
+C:\Users\alexa\Desktop\P_FINAL\Wikia\obj\Debug\Wikia.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\P_FINAL\Wikia\obj\Debug\Wikia.csproj.CopyComplete
+C:\Users\alexa\Desktop\P_FINAL\Wikia\obj\Debug\Wikia.dll
+C:\Users\alexa\Desktop\P_FINAL\Wikia\obj\Debug\Wikia.pdb
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\Wikia.dll.config
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\Wikia.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\Wikia.pdb
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\csc.exe
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\csc.exe.config
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\csc.rsp
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\csi.exe
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\csi.exe.config
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\csi.rsp
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.Managed.Core.targets
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.AppContext.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Collections.Immutable.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Console.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.IO.Compression.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.IO.FileSystem.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.IO.Pipes.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Reflection.Metadata.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Security.AccessControl.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Security.Claims.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Security.Principal.Windows.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.ValueTuple.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Xml.XmlDocument.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Xml.XPath.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\vbc.exe
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\vbc.exe.config
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\vbc.rsp
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\VBCSCompiler.exe
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\roslyn\VBCSCompiler.exe.config
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\obj\Debug\Wikia.csprojAssemblyReference.cache
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\obj\Debug\Wikia.csproj.CoreCompileInputs.cache
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\obj\Debug\Wikia.csproj.CopyComplete
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\obj\Debug\Wikia.dll
+D:\USU_ENZO\SISE\BLOQUE7\Aplicaciones Web\APP_Final2\P_FINAL\Wikia\obj\Debug\Wikia.pdb
